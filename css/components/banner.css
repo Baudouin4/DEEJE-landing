@@ -1,0 +1,5 @@
+.banner{
+	background-image: url(../../images/main_picture.jpg);
+	background-size: cover;
+	height: 650px;
+}

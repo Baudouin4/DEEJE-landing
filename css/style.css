@@ -91,5 +91,16 @@ h2{
 
 }
 
+.btn-blue{
+	background-color: #020038;
+	padding: 15px 20px;
+	border-radius: 6px;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	margin: 80px auto;
+	
+}
 
 
